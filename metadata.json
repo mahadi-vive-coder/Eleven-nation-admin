@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Eleven Nation",
+  "description": "Premium football jersey e-commerce store and comprehensive admin management panel with real-time sales, inventory, and profit analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
